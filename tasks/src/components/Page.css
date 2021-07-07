@@ -1,0 +1,20 @@
+.root {
+    padding: 5rem;
+}
+.link{
+    padding: 8rem;
+    margin: 1rem;
+    cursor: pointer;
+    border: none;
+    
+   
+}
+.link:hover{
+    background-color: gray;
+    color: #fff;
+    box-shadow: 1px 5px 5px  black;
+}
+.h1{
+    text-align: center;
+    font-weight: bolder;
+}
